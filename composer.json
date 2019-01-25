@@ -1,5 +1,5 @@
 {
-    "name": "bartacus/bartacus-skeleton",
+    "name": "bartacus/skeleton",
     "type": "project",
     "license": "GPL-3.0+",
     "description": "A minimal Bartacus project recommended to create minimal TYPO3 and Symfony applications",
