@@ -7,7 +7,7 @@
         "php": "^7.2",
         "ext-ctype": "*",
         "ext-iconv": "*",
-        "bartacus/bartacus-bundle": "^2.0@dev",
+        "bartacus/bartacus-bundle": "^2.0",
         "symfony/console": "*",
         "symfony/dotenv": "*",
         "symfony/flex": "^1.1",
